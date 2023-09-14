@@ -1,24 +1,24 @@
 <script setup lang="ts">
 const values = ref([
   {
-    title: "Respect and Fairness",
-    desc: "Everyone deserves to be treated with respect and fairness, and that our clients and candidates are essential to their success.",
+    title: "Care and Passion",
+    desc: "We are driven to provide compassionate support that fosters independence and overall wellbeing.",
   },
   {
     title: "Mutual success",
-    desc: "When our candidates and clients succeed, we also succeed. We’re dedicated to providing excellent services to everyone we work with.",
+    desc: "When our clients succeed, we also succeed. We’re dedicated to providing excellent services to everyone we work for.",
   },
   {
     title: "Diversity and inclusion",
-    desc: "Everyone has something to offer, and are committed to creating a workplace where everyone is welcome and valued.",
+    desc: "We believe that everyone deserves to be treated with respect and fairness.",
   },
   {
     title: "Self-motivation",
-    desc: "We are a team of passionate professionals who are always looking for new ways to improve",
+    desc: "We are a team of passionate professionals who are always looking for new ways to improve.",
   },
   {
     title: "Listening and communication",
-    desc: "We believe that it is important to understand the needs of our candidates and clients, and to communicate effectively with them",
+    desc: "We believe that it is important to understand the needs of our clients, and to communicate effectively with them.",
   },
 ]);
 </script>
@@ -30,7 +30,7 @@ const values = ref([
       >
         <div class="flex flex-col text-center w-full max-w-[612px]">
           <h1
-            class="font-semibold text-head leading-snug text-[38px] lg:leading-snug lg:text-[48px] w-full max-w-[572px]"
+            class="font-medium text-head leading-snug text-[28px] lg:leading-snug lg:text-[32px] w-full max-w-[572px]"
           >
             Our Core Values
           </h1>

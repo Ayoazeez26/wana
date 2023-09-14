@@ -313,7 +313,7 @@ onMounted(() => {
             class="section flex flex-col justify-between lg:flex-row lg:items-center py-[80px] md:py-[120px] lg:py-0 w-full"
           >
             <div
-              class="flex flex-col w-full mb-10 lg:py-20 lg:mb-0 max-w-[572px] lg:max-w-[420px] xl:max-w-[572px]"
+              class="flex flex-col w-full mb-10 lg:py-36 lg:mb-0 max-w-[572px] lg:max-w-[420px] xl:max-w-[572px]"
             >
               <p
                 class="text-brown font-semibold text-[56px] leading-[72px] md:leading-[80px] md:text-[64px]"
@@ -321,16 +321,14 @@ onMounted(() => {
                 01
               </p>
               <h2
-                class="font-semibold mt-3 text-[24px] md:text-[32px] leading-[42px] md:leading-[48px]"
+                class="font-medium mt-2 text-[24px] md:text-[32px] leading-[42px] md:leading-[48px]"
               >
-                Employability Training
+                Personal Care Assistance
               </h2>
-              <p class="mt-2 md:mt-6 leading-[28px]">
-                Our employability training is designed to help you develop the
-                skills and knowledge you need to succeed in the healthcare
-                industry. Our employability training is delivered by experienced
-                healthcare professionals who are passionate about helping you
-                succeed.
+              <p class="mt-2 leading-[28px]">
+                To guarantee your comfort and well-being, our caregivers assist
+                with activities of daily living such as washing, dressing,
+                grooming and mobility support.
               </p>
             </div>
             <div ref="tooltip" class="max-w-[612px] right-0 top-0">
@@ -346,7 +344,7 @@ onMounted(() => {
             class="section flex flex-col justify-between lg:flex-row lg:items-center py-[80px] md:py-[120px] lg:py-0 w-full"
           >
             <div
-              class="flex flex-col w-full mb-10 lg:py-20 lg:mb-0 max-w-[572px] lg:max-w-[420px] xl:max-w-[572px]"
+              class="flex flex-col w-full mb-10 lg:py-36 lg:mb-0 max-w-[572px] lg:max-w-[420px] xl:max-w-[572px]"
             >
               <p
                 class="text-brown font-semibold text-[56px] leading-[72px] md:leading-[80px] md:text-[64px]"
@@ -354,16 +352,12 @@ onMounted(() => {
                 02
               </p>
               <h2
-                class="font-semibold text-[24px] mt-3 md:text-[32px] leading-[42px] md:leading-[48px]"
+                class="font-medium text-[24px] mt-2 md:text-[32px] leading-[42px] md:leading-[48px]"
               >
-                Health Care Mandatory Courses
+                Medication Management
               </h2>
-              <p class="mt-2 md:mt-6 leading-[28px]">
-                Healthcare mandatory courses are essential for anyone working in
-                the healthcare industry. These courses cover a variety of topics
-                that are essential for providing safe and effective care to
-                patients. Our courses are delivered by experienced instructors
-                who are passionate about helping you learn.
+              <p class="mt-2 leading-[28px]">
+                Wana Services sends medication reminders and ensures that drugs are taken as recommended, supporting our clients health and safety.
               </p>
             </div>
             <img
@@ -377,7 +371,7 @@ onMounted(() => {
             class="section flex flex-col justify-between lg:flex-row lg:items-center py-[80px] md:py-[120px] lg:py-0 w-full"
           >
             <div
-              class="flex flex-col w-full mb-10 lg:py-20 lg:mb-0 max-w-[572px] lg:max-w-[420px] xl:max-w-[572px]"
+              class="flex flex-col w-full mb-10 lg:py-36 lg:mb-0 max-w-[572px] lg:max-w-[420px] xl:max-w-[572px]"
             >
               <p
                 class="text-brown font-semibold text-[56px] leading-[72px] md:leading-[80px] md:text-[64px]"
@@ -385,17 +379,12 @@ onMounted(() => {
                 03
               </p>
               <h2
-                class="font-semibold text-[24px] mt-3 md:text-[32px] leading-[42px] md:leading-[48px]"
+                class="font-medium text-[24px] mt-2 md:text-[32px] leading-[42px] md:leading-[48px]"
               >
-                Staff Supply to NHS and Private Care Providers
+                Companionship and Social Engagement
               </h2>
-              <p class="mt-2 md:mt-6 leading-[28px]">
-                Wana Health Care Services is a leading provider of staff supply
-                to the NHS and private care providers. We have a wide network of
-                qualified and experienced healthcare professionals who can be
-                deployed quickly and flexibly to meet your staffing needs. We
-                are committed to providing our clients with the highest quality
-                staffing solutions.
+              <p class="mt-2 leading-[28px]">
+                We provide companionship services to help overcome loneliness and isolation by engaging in meaningful conversations and activities that improve their mental and emotional well-being.
               </p>
             </div>
             <img
@@ -409,7 +398,7 @@ onMounted(() => {
             class="section flex flex-col justify-between lg:flex-row lg:items-center py-[80px] md:py-[120px] lg:py-0 w-full"
           >
             <div
-              class="flex flex-col w-full mb-10 lg:py-20 lg:mb-0 max-w-[572px] lg:max-w-[420px] xl:max-w-[572px]"
+              class="flex flex-col w-full mb-10 lg:py-36 lg:mb-0 max-w-[572px] lg:max-w-[420px] xl:max-w-[572px]"
             >
               <p
                 class="text-brown font-semibold text-[56px] leading-[72px] md:leading-[80px] md:text-[64px]"
@@ -417,17 +406,12 @@ onMounted(() => {
                 04
               </p>
               <h2
-                class="font-semibold text-[24px] mt-3 md:text-[32px] leading-[42px] md:leading-[48px]"
+                class="font-semibold text-[24px] mt-2 md:text-[32px] leading-[42px] md:leading-[48px]"
               >
-                DCS Care
+                Compassionate Caregivers
               </h2>
-              <p class="mt-2 md:mt-6 leading-[28px]">
-                DCS CARE is a healthcare recruitment agency that specializes in
-                sourcing local jobs for local people. We are a team of highly
-                motivated and passionate healthcare professionals who have
-                worked in the industry for over 10 years. We value our
-                candidates as real partners and assets, and we offer fair charge
-                rates.
+              <p class="mt-2 leading-[28px]">
+                Our team consists of compassionate and experienced caregivers who are dedicated to your comfort, safety, and emotional well-being.
               </p>
             </div>
             <img

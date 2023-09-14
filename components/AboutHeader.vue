@@ -7,7 +7,7 @@
       class="flex h-24 md:h-[120px] items-center justify-between px-4 px-md-0 w-full max-w-[1240px] mx-auto"
     >
       <nuxt-link to="/">
-        <img class="w-[170px] h-[40px]" src="/img/logo.png" />
+        <img class="w-[89px]" src="/img/logo.png" />
       </nuxt-link>
       <button ref="hamburger" class="lg:hidden" @click="open = !open">
         <Icon name="ic:round-menu" size="24px" color="#1B5588" />
@@ -79,16 +79,16 @@
           class="hidden lg:flex flex-col w-full lg:w-auto lg:flex-row lg:items-center gap-4"
         >
           <nuxt-link
-            to="/jobClient"
-            class="bg-white text-center border-2 border-secondary font-semibold px-4 py-3 lg:w-[160px] rounded-lg text-secondary"
+            to="/contact"
+            class="bg-transparent text-center border-2 border-secondary font-semibold px-4 py-3 lg:w-[160px] rounded-lg text-secondary"
           >
-            Book Staff
+            Contact Us
           </nuxt-link>
           <nuxt-link
-            to="/jobCandidate"
+            to="/jobClient"
             class="bg-secondary text-center border-2 border-secondary font-semibold px-4 py-3 lg:w-[160px] rounded-lg text-white"
           >
-            Register Now!
+            Book Staff
           </nuxt-link>
         </div>
         <div class="flex w-full mt-3 lg:hidden justify-between items-center">
@@ -124,16 +124,16 @@
             class="flex flex-col w-full lg:w-auto lg:flex-row lg:items-center gap-4"
           >
             <nuxt-link
-              to="/jobClient"
+              to="/contact"
               class="bg-white text-center border-2 border-secondary font-semibold px-4 py-3 lg:w-[160px] rounded-lg text-secondary"
             >
-              Book Staff
+              Contact Us
             </nuxt-link>
             <nuxt-link
-              to="/jobCandidate"
+              to="/jobClient"
               class="bg-secondary text-center border-2 border-secondary font-semibold px-4 py-3 lg:w-[160px] rounded-lg text-white"
             >
-              Register Now!
+              Book Staff
             </nuxt-link>
           </div>
         </ul>

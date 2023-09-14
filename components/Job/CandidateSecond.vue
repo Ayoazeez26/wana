@@ -6,7 +6,7 @@ const submitForm = () => {
   console.log("submitting form");
 };
 const completed = ref(false);
-const progressed = ref(false);
+const progressed = ref(true);
 const errorMsg = reactive({});
 const firstname = ref("");
 const lastname = ref("");

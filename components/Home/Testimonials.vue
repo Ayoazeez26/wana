@@ -5,18 +5,25 @@ const nextClicked = ref(false);
 const testimoinials = ref([
   {
     img: "jessie",
-    title: "Senior Nurse",
-    name: "Jessie Reyez",
-    desc: "Wana Services helped me find a job that perfectly matched my skills and preferences. I am grateful for their support and highly recommend their serviecs.",
+    // title: "Senior Nurse",
+    name: "Sarah M",
+    desc: "I can't express how grateful I am to Wana Services for the exceptional care they provided to my elderly mother. The caregivers were not only competent but also sympathetic, treating her with dignity and respect. Their concern for my mother's well-being enabled her to remain in the comfort of her own home, which meant the world to our family. Wana Services certainly made a difference in our life during a difficult period.",
     stars: 5,
   },
   {
     img: "jessie",
-    title: "Senior Nurse",
-    name: "Jessie Reyez",
-    desc: "Wana Services helped me find a job that perfectly matched my skills and preferences. I am grateful for their support and highly recommend their serviecs.",
+    // title: "Senior Nurse",
+    name: "James D",
+    desc: "Wana Services exceeded all of my expectations. I needed post-surgery help, and their crew was fantastic. They facilitated a smooth and comfortable recovery time by assisting with my rehabilitation activities and monitoring my meds. Their warm manner and constant support made me feel as though I had a friend by my side the entire time. I wholeheartedly commend their services.",
     stars: 5,
   },
+  {
+    img: "jessie",
+    // title: "Senior Nurse",
+    name: "Emily T",
+    desc: "Choosing Wana Services to care for my father was the best decision I ever made. The caretakers went above and above to ensure his well-being. They not only helped with his physical needs, but they also got him involved in things he loved. It was lovely to witness how they got along. I was relieved to know he was in skilled and kind care. Thank you for making a difference in our life, Wana Services.",
+    stars: 5,
+  }
 ]);
 const carousel = ref(null);
 const next = () => {
@@ -28,7 +35,7 @@ const prev = () => {
 }
 </script>
 <template>
-  <div class="py-[120px] lg:pb-[240px] relative">
+  <div class="my-[120px] lg:mb-[240px] relative">
     <div class="flex flex-col mx-auto px-4 xl:px-0 w-full max-w-[1240px]">
       <div class="flex flex-col justify-between lg:flex-row lg:items-center w-full">
         <div class="md:w-[572px] relative">
@@ -58,18 +65,18 @@ const prev = () => {
                     <img class="w-6" src="/svg/star.svg" alt="star" />
                   </div>
                 </div>
-                <div class="flex gap-4">
+                <div class="flex items-center gap-4">
                   <div class="relative max-w-fit">
                     <img class="w-[56px]" :src="`/img/${person.img}.png`" />
                   </div>
-                  <div class="flex flex-col gap-2">
+                  <!-- <div class="flex flex-col gap-2"> -->
                     <p class="font-bold text-base">
                       {{ person.name }}
                     </p>
-                    <p class="text-sm">
+                    <!-- <p class="text-sm">
                       {{ person.title }}
-                    </p>
-                  </div>
+                    </p> -->
+                  <!-- </div> -->
                 </div>
               </div>
             </Slide>

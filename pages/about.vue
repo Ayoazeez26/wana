@@ -6,6 +6,7 @@
       <AboutHero />
       <AboutSecondSection />
       <AboutValues />
+      <AboutFourthSection />
       <HomeTestimonials />
     </main>
     <AppFooter />

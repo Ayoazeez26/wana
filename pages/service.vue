@@ -5,6 +5,7 @@
       <!-- <JobDropdown v-if="dataStore.job" /> -->
       <ServiceHero />
       <ServiceSecondSection />
+      <ServiceValues />
       <ServiceDiscover />
       <ServiceTrust />
     </main>

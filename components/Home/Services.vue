@@ -12,12 +12,12 @@ const services = ref([
 const breakpoints = ref({
   150: {
     itemsToShow: 1,
-    snapAlign: 'center'
+    snapAlign: "center",
   },
   1000: {
     itemsToShow: 2,
-    snapAlign: 'center'
-  }
+    snapAlign: "center",
+  },
 });
 
 const carousel = ref(null);
@@ -27,48 +27,40 @@ const next = () => {
 
 const prev = () => {
   carousel.value.prev();
-}
+};
 </script>
 <template>
   <div class="w-full pt-[80px] lg:pt-[64px]">
     <div class="flex flex-col mx-auto w-full max-w-[1240px]">
       <div class="w-full flex flex-col items-center text-center px-4">
         <div class="w-full mb-14 max-w-[434px]">
-          <h2 class="text-2xl lg:text-[32px] font-semibold mb-4">
-            Our Recruitment Services
-          </h2>
-          <p>
+          <h2 class="text-2xl lg:text-[32px] font-semibold mb-4">What We Do</h2>
+          <!-- <p>
             You can Recruit or Become Nurse, Care Assistants, Support Workers,
             and Social Workers
-          </p>
+          </p> -->
         </div>
-        <div class="w-full">
-          <Carousel ref="carousel" :breakpoints="breakpoints" class="w-full">
-            <Slide v-for="(service, index) in services" :key="index">
-              <div class="carousel__item max-w-[528px]">
-                <div class="md:p-6 flex flex-col">
-                  <img :src="`/img/${service.img}.png`" alt="" />
-                  <p class="mt-8">{{ service.name }}</p>
-                </div>
-              </div>
-            </Slide>
-            <template #addons>
-              <Navigation class="invisible md:visible" />
-            </template>
-          </Carousel>
-          <div class="flex md:hidden gap-6 mt-5 justify-center">
-            <button
-              @click="prev"
-              class="flex min-w-max bg-white border border-grey-3 w-16 h-16 rounded-lg items-center justify-center mt-2"
-            >
-              <Icon name="mdi:arrow-left" size="32" />
-            </button>
-            <button
-              @click="next"
-              class="flex min-w-max bg-white border border-grey-3 w-16 h-16 rounded-lg items-center justify-center mt-2"
-            >
-              <Icon name="mdi:arrow-right" size="32"/>
-            </button>
+        <div class="w-full text-left">
+          <div
+            class="flex flex-col justify-between lg:flex-row lg:items-center gap-10 w-full max-w-[1240px]"
+          >
+            <img class="w-full max-w-[612px]" src="/img/about.png" />
+            <div class="flex flex-col w-full mt-10 md:mt-0 max-w-[572px]">
+              <h2
+                class="font-medium text-[26px] md:text-2xl leading-[42px] md:leading-[40px]"
+              >
+                Domiciliary Care
+              </h2>
+              <p class="mt-2 leading-[28px] md:leading-[28px]">
+                Treasure Vince Care offers high-quality domiciliary care that
+                helps people live independently in their own homes. Caregivers
+                work with each individual to create a personalized care plan
+                that meets their unique needs and goals. Service users are also
+                given opportunities to participate in the development and review
+                of their care plans, so they have a say in how they are cared
+                for.
+              </p>
+            </div>
           </div>
         </div>
       </div>

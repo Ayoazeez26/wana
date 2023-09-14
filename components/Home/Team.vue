@@ -25,10 +25,10 @@ const breakpoints = ref({
 });
 </script>
 <template>
-  <div class="w-full pt-[80px] lg:pt-[120px]">
+  <div class="w-full">
     <div class="flex flex-col mx-auto w-full max-w-[1240px]">
       <div class="w-full flex flex-col items-center text-center px-4">
-        <div class="w-full max-w-[588px] mb-10">
+        <!-- <div class="w-full max-w-[588px] mb-10">
           <h2 class="text-2xl lg:text-[32px] font-semibold mb-4">
             We're a Distributed Team
           </h2>
@@ -37,7 +37,7 @@ const breakpoints = ref({
             available. We cover most UK cities and towns. Majorly in
           </p>
         </div>
-        <img src="/svg/location.svg" alt="team location" />
+        <img src="/svg/location.svg" alt="team location" /> -->
         <div class="w-full pt-16">
           <p class="mb-10">We are trusted by amazing companies</p>
           <Carousel ref="carousel" :breakpoints="breakpoints" class="w-full">

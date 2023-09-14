@@ -1,7 +1,7 @@
 <template>
   <footer
     id="footer"
-    class="bg-blue-3 text-white min-h-[575px] py-20 flex flex-col justify-between px-4"
+    class="bg-blue-3 text-white min-h-[550px] py-20 flex flex-col justify-between px-4"
   >
     <div class="w-full max-w-[1240px] mx-auto">
       <div
@@ -9,11 +9,10 @@
       >
         <div class="">
           <h3 class="text-2xl md:text-[28px] text-white font-semibold">
-            Find Your Dream Healthcare Job
+            Learn why we're the perfect DOM Care provider
           </h3>
           <p class="font-medium mt-3">
-            Join over 500+ people passionate about helping and taking care of
-            people
+            Become a part of our community
           </p>
         </div>
         <div
@@ -38,10 +37,10 @@
       >
         <div class="flex flex-col items-center mt-24 md:mt-10">
           <nuxt-link to="/">
-            <img class="w-[170px]" src="/img/logo.png" />
+            <img class="w-[101px]" src="/img/logo-footer.png" />
           </nuxt-link>
           <div
-            class="text-sm w-full flex flex-col md:flex-row gap-10 max-w-full md:max-w-[333px] mt-10 md:mt-6 text-center md:text-left font-medium"
+            class="text-sm w-full flex flex-col md:flex-row gap-10 max-w-full md:max-w-[333px] mt-10 text-center md:text-left font-medium"
           >
             <nuxt-link to="/">Home</nuxt-link>
             <nuxt-link to="/about">About Us</nuxt-link>

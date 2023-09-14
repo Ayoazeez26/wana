@@ -33,16 +33,18 @@ const breakpoints = ref({
         <img class="w-full max-w-[612px]" src="/img/medicals.png" />
         <div class="flex flex-col w-full mt-10 md:mt-0 max-w-[572px]">
           <h2
-            class="font-semibold text-[26px] md:text-[32px] leading-[42px] md:leading-[48px]"
+            class="font-medium text-[26px] md:text-[32px] leading-[42px] md:leading-[48px]"
           >
-            Begin your Health Care Service Journey Today!
+            Our Mission
           </h2>
-          <p class="mt-2 md:mt-6 leading-[28px]">
-            Our dedicated team understands the importance of finding work in
-            your city or town, and we are here to help you every step of the
-            way. Whether you’re a nurse, care assistant, support worker, or
-            social worker, we have the connections and expertise to get you to
-            work in your desired location anywhere in the UK.
+          <p class="mt-2 leading-[28px]">
+            Our mission at Wana Services is to provide high-quality domiciliary
+            care services that allow people to age gracefully and with dignity
+            in the comfort of their own homes. We are passionately devoted to
+            developing independence and improving our client's quality of life.
+            Our caring staff works hard to fulfill every need of each person we
+            serve, ensuring that they receive the compassionate and personalized
+            attention they deserve.
           </p>
         </div>
       </div>
@@ -74,14 +76,22 @@ const breakpoints = ref({
         </button>
       </div>
     </div>
-    <div class="flex flex-col lg:flex-row lg:justify-between w-full mt-16 md:mt-10">
+    <div
+      class="flex flex-col lg:flex-row lg:justify-between w-full mt-16 md:mt-10"
+    >
       <h2
-        class="font-semibold text-[26px] md:text-[32px] leading-[42px] md:leading-[48px]"
+        class="font-medium text-[26px] md:text-[32px] leading-[42px] md:leading-[48px]"
       >
-        We're all About Standing Out
+        Why Choose Wana Services
       </h2>
       <p class="mt-6 md:mt-0 leading-[28px] w-full max-w-[612px]">
-        We are unique in a way that our candidates are not just temporary staff but real partners and assets to Wana Services. We support you all the way so even you have never done a care job before, you will enjoy working with us as our representatives will offer you ongoing support to ensure you gain confidence and succeed in work placement.  We are not a rip-off agency like many out there. Our candidates take a lion’s share in charge rates because we value them as ones that goes out to the clients to represent Wana Services.
+        What distinguishes Wana Services is our unrelenting dedication to our
+        client's well-being. We make meaningful connections and improve lives in
+        addition to delivering necessary care services. Wana Services is your
+        trusted partner in attaining the finest quality of life at home, with a
+        track record of excellence, a team of caring experts, and a
+        client-centered approach. We are your best choice for in-home care that
+        puts your comfort, safety, and happiness first.
       </p>
     </div>
   </div>

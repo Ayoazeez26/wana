@@ -44,8 +44,8 @@
           >
             <nuxt-link to="/">Home</nuxt-link>
             <nuxt-link to="/about">About Us</nuxt-link>
-            <nuxt-link class="min-w-max" to="/service">Services</nuxt-link>
-            <nuxt-link class="min-w-max" to="/job">Find Jobs</nuxt-link>
+            <nuxt-link class="min-w-max" to="/services">Services</nuxt-link>
+            <!-- <nuxt-link class="min-w-max" to="/job">Find Jobs</nuxt-link> -->
           </div>
           <!-- <div class="mt-6 flex justify-center md:justify-start gap-3">
             <a href="#" target="_blank"

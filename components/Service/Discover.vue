@@ -47,7 +47,7 @@ const values = ref([
         </div>
       </div>
     </div>
-    <div class="py-20 md:py-16 mx-auto w-full max-w-[1240px]">
+    <!-- <div class="py-20 md:py-16 mx-auto w-full max-w-[1240px]">
       <div class="w-full flex flex-col md:items-start gap-10">
         <button
           class="bg-brown px-6 py-3 rounded-full uppercase text-sm font-bold tracking-[0.028px] leading-[28px] text-white"
@@ -67,7 +67,7 @@ const values = ref([
           of work across most cities and towns of the UK
         </p>
       </div>
-    </div>
+    </div> -->
   </div>
 </template>
 

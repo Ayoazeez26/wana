@@ -25,11 +25,11 @@
             partnering with Wana Services to achieve the greatest quality of
             life at home.
           </p>
-          <button
+          <!-- <button
             class="bg-secondary border-2 border-secondary font-semibold px-4 py-3 md:w-[160px] rounded-lg text-white"
           >
             Register
-          </button>
+          </button> -->
         </div>
       </div>
     </div>

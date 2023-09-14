@@ -6,7 +6,7 @@
       <ServiceHero />
       <ServiceSecondSection />
       <ServiceValues />
-      <ServiceDiscover />
+      <!-- <ServiceDiscover /> -->
       <ServiceTrust />
     </main>
     <AppFooter />

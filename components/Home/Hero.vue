@@ -19,15 +19,15 @@
           <div
             class="flex flex-col w-full lg:w-auto lg:flex-row lg:items-center gap-4 mt-10"
           >
-            <nuxt-link
+            <!-- <nuxt-link
               to="/jobClient"
               class="bg-secondary text-center border-2 border-secondary font-semibold px-4 py-3 lg:w-[160px] rounded-lg text-white"
             >
               Book Staff
-            </nuxt-link>
+            </nuxt-link> -->
             <nuxt-link
               to="/contact"
-              class="bg-white text-center border-2 border-secondary font-semibold px-4 py-3 lg:w-[160px] rounded-lg text-secondary"
+              class="bg-secondary text-center border-2 border-secondary font-semibold px-4 py-3 lg:w-[160px] rounded-lg text-white"
             >
               Contact Us
             </nuxt-link>

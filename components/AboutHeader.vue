@@ -46,7 +46,7 @@
               >Services</nuxt-link
             >
           </li>
-          <li @click="jobToggled">
+          <!-- <li @click="jobToggled">
             <p
               class="hover:text-secondary hover:font-semibold cursor-pointer"
               :class="
@@ -63,12 +63,12 @@
                 color="#5A5A59"
               />
             </p>
-          </li>
+          </li> -->
         </ul>
-        <JobDropdown
+        <!-- <JobDropdown
           class="absolute hidden lg:block top-20 right-0"
           v-if="dataStore.job"
-        />
+        /> -->
       </div>
       <ul
         class="navbar-links flex items-start"
@@ -80,16 +80,16 @@
         >
           <nuxt-link
             to="/contact"
-            class="bg-transparent text-center border-2 border-secondary font-semibold px-4 py-3 lg:w-[160px] rounded-lg text-secondary"
+            class="bg-secondary text-center border-2 border-secondary font-semibold px-4 py-3 lg:w-[160px] rounded-lg text-white"
           >
             Contact Us
           </nuxt-link>
-          <nuxt-link
+          <!-- <nuxt-link
             to="/jobClient"
             class="bg-secondary text-center border-2 border-secondary font-semibold px-4 py-3 lg:w-[160px] rounded-lg text-white"
           >
             Book Staff
-          </nuxt-link>
+          </nuxt-link> -->
         </div>
         <div class="flex w-full mt-3 lg:hidden justify-between items-center">
           <nuxt-link to="/">
@@ -116,25 +116,25 @@
                 color="#FFFFFF"
             /></nuxt-link>
           </li>
-          <li class="cursor-pointer py-3" @click="jobToggled">
+          <!-- <li class="cursor-pointer py-3" @click="jobToggled">
             <p>Find Jobs</p>
           </li>
-          <JobDropdown class="lg:hidden" v-if="dataStore.job" />
+          <JobDropdown class="lg:hidden" v-if="dataStore.job" /> -->
           <div
             class="flex flex-col w-full lg:w-auto lg:flex-row lg:items-center gap-4"
           >
             <nuxt-link
               to="/contact"
-              class="bg-white text-center border-2 border-secondary font-semibold px-4 py-3 lg:w-[160px] rounded-lg text-secondary"
+              class="bg-secondary text-center border-2 border-secondary font-semibold px-4 py-3 lg:w-[160px] rounded-lg text-white"
             >
               Contact Us
             </nuxt-link>
-            <nuxt-link
+            <!-- <nuxt-link
               to="/jobClient"
               class="bg-secondary text-center border-2 border-secondary font-semibold px-4 py-3 lg:w-[160px] rounded-lg text-white"
             >
               Book Staff
-            </nuxt-link>
+            </nuxt-link> -->
           </div>
         </ul>
       </ul>

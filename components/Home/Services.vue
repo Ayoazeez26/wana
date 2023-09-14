@@ -52,7 +52,7 @@ const prev = () => {
                 Domiciliary Care
               </h2>
               <p class="mt-2 leading-[28px] md:leading-[28px]">
-                Treasure Vince Care offers high-quality domiciliary care that
+                Wana Care offers high-quality domiciliary care that
                 helps people live independently in their own homes. Caregivers
                 work with each individual to create a personalized care plan
                 that meets their unique needs and goals. Service users are also

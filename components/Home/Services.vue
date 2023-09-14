@@ -52,13 +52,13 @@ const prev = () => {
                 Domiciliary Care
               </h2>
               <p class="mt-2 leading-[28px] md:leading-[28px]">
-                Wana Care offers high-quality domiciliary care that
-                helps people live independently in their own homes. Caregivers
-                work with each individual to create a personalized care plan
-                that meets their unique needs and goals. Service users are also
-                given opportunities to participate in the development and review
-                of their care plans, so they have a say in how they are cared
-                for.
+                Wana Healthcare & Services offers high-quality domiciliary care
+                that helps people live independently in their own homes.
+                Caregivers work with each individual to create a personalized
+                care plan that meets their unique needs and goals. Service users
+                are also given opportunities to participate in the development
+                and review of their care plans, so they have a say in how they
+                are cared for.
               </p>
             </div>
           </div>

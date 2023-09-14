@@ -65,10 +65,10 @@ const prev = () => {
                     <img class="w-6" src="/svg/star.svg" alt="star" />
                   </div>
                 </div>
-                <div class="flex items-center gap-4">
-                  <div class="relative max-w-fit">
+                <div class="">
+                  <!-- <div class="relative max-w-fit">
                     <img class="w-[56px]" :src="`/img/${person.img}.png`" />
-                  </div>
+                  </div> -->
                   <!-- <div class="flex flex-col gap-2"> -->
                     <p class="font-bold text-base">
                       {{ person.name }}

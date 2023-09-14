@@ -138,7 +138,7 @@ watch(message, (value) => {
                 >
               </div>
             </div>
-            <div class="w-full">
+            <!-- <div class="w-full">
               <label for="companyName" class="mb-2">Company Name</label>
               <input
                 id="companyName"
@@ -156,7 +156,7 @@ watch(message, (value) => {
               <span v-else class="text-transparent text-xs mt-1"
                 >There is no error message</span
               >
-            </div>
+            </div> -->
             <div class="w-full">
               <label for="phone" class="mb-2">Phone number</label>
               <input

@@ -7,7 +7,7 @@
       <AboutSecondSection />
       <AboutValues />
       <AboutFourthSection />
-      <HomeTestimonials />
+      <!-- <HomeTestimonials /> -->
     </main>
     <AppFooter />
   </div>

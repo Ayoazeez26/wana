@@ -6,7 +6,7 @@
       <HomeHero />
       <HomeServices />
       <HomeTeam />
-      <HomeTestimonials />
+      <!-- <HomeTestimonials /> -->
       <!-- <HomeSponsor />
     <HomeCompassion />
     <HomeVideos /> -->

@@ -5,7 +5,7 @@
       <!-- <JobDropdown v-if="dataStore.job" /> -->
       <TeamHero />
       <TeamJobs />
-      <HomeTestimonials />
+      <!-- <HomeTestimonials /> -->
       <AppFooter />
     </main>
   </nuxt-layout>

@@ -357,7 +357,9 @@ onMounted(() => {
                 Medication Management
               </h2>
               <p class="mt-2 leading-[28px]">
-                Wana Services sends medication reminders and ensures that drugs are taken as recommended, supporting our clients health and safety.
+                Wana Healthcare & Services sends medication reminders and
+                ensures that drugs are taken as recommended, supporting our
+                clients health and safety.
               </p>
             </div>
             <img
@@ -384,7 +386,9 @@ onMounted(() => {
                 Companionship and Social Engagement
               </h2>
               <p class="mt-2 leading-[28px]">
-                We provide companionship services to help overcome loneliness and isolation by engaging in meaningful conversations and activities that improve their mental and emotional well-being.
+                We provide companionship services to help overcome loneliness
+                and isolation by engaging in meaningful conversations and
+                activities that improve their mental and emotional well-being.
               </p>
             </div>
             <img
@@ -411,7 +415,9 @@ onMounted(() => {
                 Compassionate Caregivers
               </h2>
               <p class="mt-2 leading-[28px]">
-                Our team consists of compassionate and experienced caregivers who are dedicated to your comfort, safety, and emotional well-being.
+                Our team consists of compassionate and experienced caregivers
+                who are dedicated to your comfort, safety, and emotional
+                well-being.
               </p>
             </div>
             <img

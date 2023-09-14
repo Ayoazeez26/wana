@@ -11,9 +11,7 @@
           <h3 class="text-2xl md:text-[28px] text-white font-semibold">
             Learn why we're the perfect DOM Care provider
           </h3>
-          <p class="font-medium mt-3">
-            Become a part of our community
-          </p>
+          <p class="font-medium mt-3">Become a part of our community</p>
         </div>
         <div
           class="flex flex-col lg:flex-row lg:items-center mt-6 md:mt-0 w-full md:w-auto items-stretch gap-4"
@@ -68,7 +66,8 @@
           Designed by TGPC Media
         </p>
         <p class="text-center leading-snug font-medium">
-          © {{ new Date().getFullYear() }} Wana Services. All Rights Reserved.
+          © {{ new Date().getFullYear() }} Wana Healthcare & Services. All
+          Rights Reserved.
         </p>
       </div>
     </div>

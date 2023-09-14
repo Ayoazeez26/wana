@@ -35,7 +35,7 @@ const breakpoints = ref({
         Our Commitment to Excellence
       </h2>
       <p class="mt-6 md:mt-0 leading-[28px] w-full max-w-[612px]">
-        Wana Services is committed to consistently improving the quality of our
+        Wana Healthcare & Services is committed to consistently improving the quality of our
         domiciliary care services. We remain up to date on the newest
         developments in the field, ensuring that our services are not only
         compassionate but also based on the greatest healthcare practices. Our

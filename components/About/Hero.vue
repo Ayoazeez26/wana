@@ -9,10 +9,16 @@
           <h1
             class="font-medium text-head leading-snug text-[38px] lg:leading-snug lg:text-[48px] w-full max-w-[572px]"
           >
-            At Wana Services Your Dream is Our Drive
+            At Wana Healthcare & Services Your Dream is Our Drive
           </h1>
           <p class="mt-6 leading-[28px]">
-            Wana Services is a domiciliary care agency that provides in-home care services to clients of all ages and backgrounds. We are a team of highly motivated and passionate domiciliary care professionals who have worked in the industry for over 10 years both in the NHS and private healthcare establishment. We place the highest priority on your safety, well-being, and comfort.
+            Wana Healthcare & Services is a domiciliary care agency that
+            provides in-home care services to clients of all ages and
+            backgrounds. We are a team of highly motivated and passionate
+            domiciliary care professionals who have worked in the industry for
+            over 10 years both in the NHS and private healthcare establishment.
+            We place the highest priority on your safety, well-being, and
+            comfort.
           </p>
         </div>
       </div>

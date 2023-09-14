@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
     head: {
-      title: "Wana Services",
+      title: "Wana Healthcare & Services",
       link: [{ rel: "icon", type: "image/png", href: "/favicon.ico" }],
       meta: [
         { charset: "utf-8" },
@@ -32,7 +32,7 @@ export default defineNuxtConfig({
     "@nuxtjs/google-fonts",
     "nuxt-swiper",
     "vue3-carousel-nuxt",
-    "@pinia/nuxt"
+    "@pinia/nuxt",
   ],
   vite: {
     css: {
@@ -50,6 +50,6 @@ export default defineNuxtConfig({
     },
   },
   build: {
-    transpile: ['gsap']
-  }
+    transpile: ["gsap"],
+  },
 });

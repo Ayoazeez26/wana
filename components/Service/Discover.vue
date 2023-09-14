@@ -28,7 +28,8 @@ const values = ref([
             <h2
               class="font-semibold text-head leading-snug text-[28px] lg:leading-snug lg:text-[32px] w-full max-w-[612px]"
             >
-              Discover Your Fulfilling Healthcare Career with Wana Services
+              Discover Your Fulfilling Healthcare Career with Wana Healthcare &
+              Services
             </h2>
           </div>
           <div class="mt-20 flex gap-6 flex-wrap w-full">

@@ -38,13 +38,13 @@ const breakpoints = ref({
             Our Mission
           </h2>
           <p class="mt-2 leading-[28px]">
-            Our mission at Wana Services is to provide high-quality domiciliary
-            care services that allow people to age gracefully and with dignity
-            in the comfort of their own homes. We are passionately devoted to
-            developing independence and improving our client's quality of life.
-            Our caring staff works hard to fulfill every need of each person we
-            serve, ensuring that they receive the compassionate and personalized
-            attention they deserve.
+            Our mission at Wana Healthcare & Services is to provide high-quality
+            domiciliary care services that allow people to age gracefully and
+            with dignity in the comfort of their own homes. We are passionately
+            devoted to developing independence and improving our client's
+            quality of life. Our caring staff works hard to fulfill every need
+            of each person we serve, ensuring that they receive the
+            compassionate and personalized attention they deserve.
           </p>
         </div>
       </div>
@@ -82,16 +82,17 @@ const breakpoints = ref({
       <h2
         class="font-medium text-[26px] md:text-[32px] leading-[42px] md:leading-[48px]"
       >
-        Why Choose Wana Services
+        Why Choose Wana Healthcare & Services
       </h2>
       <p class="mt-6 md:mt-0 leading-[28px] w-full max-w-[612px]">
-        What distinguishes Wana Services is our unrelenting dedication to our
-        client's well-being. We make meaningful connections and improve lives in
-        addition to delivering necessary care services. Wana Services is your
-        trusted partner in attaining the finest quality of life at home, with a
-        track record of excellence, a team of caring experts, and a
-        client-centered approach. We are your best choice for in-home care that
-        puts your comfort, safety, and happiness first.
+        What distinguishes Wana Healthcare & Services is our unrelenting
+        dedication to our client's well-being. We make meaningful connections
+        and improve lives in addition to delivering necessary care services.
+        Wana Healthcare & Services is your trusted partner in attaining the
+        finest quality of life at home, with a track record of excellence, a
+        team of caring experts, and a client-centered approach. We are your best
+        choice for in-home care that puts your comfort, safety, and happiness
+        first.
       </p>
     </div>
   </div>

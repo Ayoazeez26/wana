@@ -17,13 +17,13 @@
             Your Well-Being is Our Priority
           </h1>
           <p class="mt-2 mb-10 leading-[28px]">
-            Wana Services places the highest priority on your safety,
-            well-being, and comfort. We are devoted to developing long-term
-            relationships with those we serve and their families that are
-            founded on trust, dependability, and open communication. Discover
-            how our caring staff can make a difference in your life by
-            partnering with Wana Services to achieve the greatest quality of
-            life at home.
+            Wana Healthcare & Services places the highest priority on your
+            safety, well-being, and comfort. We are devoted to developing
+            long-term relationships with those we serve and their families that
+            are founded on trust, dependability, and open communication.
+            Discover how our caring staff can make a difference in your life by
+            partnering with Wana Healthcare & Services to achieve the greatest
+            quality of life at home.
           </p>
           <!-- <button
             class="bg-secondary border-2 border-secondary font-semibold px-4 py-3 md:w-[160px] rounded-lg text-white"

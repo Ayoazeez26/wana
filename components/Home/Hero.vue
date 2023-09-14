@@ -10,11 +10,16 @@
         <h1
           class="font-semibold text-head leading-snug text-[38px] lg:leading-snug lg:text-[48px] w-full max-w-[403px]"
         >
-          Welcome to Wana Services
+          Welcome to Wana Healthcare & Services
         </h1>
         <div class="flex flex-col w-full max-w-[612px]">
           <p class="mt-4 lg:mt-0 leading-[28px] md:leading-[28px]">
-            At Wana Services, we believe there is no place like home, and we are devoted to assisting you or your loved ones in maintaining independence and quality of life in the comfort of your home. Our purpose is to deliver compassionate and individualized care that is tailored to your specific requirements, allowing you to live life on your terms.
+            At Wana Healthcare & Services, we believe there is no place like
+            home, and we are devoted to assisting you or your loved ones in
+            maintaining independence and quality of life in the comfort of your
+            home. Our purpose is to deliver compassionate and individualized
+            care that is tailored to your specific requirements, allowing you to
+            live life on your terms.
           </p>
           <div
             class="flex flex-col w-full lg:w-auto lg:flex-row lg:items-center gap-4 mt-10"
@@ -46,8 +51,15 @@
           >
             Our Range of In-Home Care Services
           </h2>
-          <p class="mt-2 md:mt-6 leading-[28px] md:leading-[28px] ">
-            With a staff of committed and professional carers, Wana Services provides a comprehensive range of in-home care services to clients of all ages and backgrounds. Our expert specialists are available to give the finest quality of care and support, whether you require assistance with everyday duties, medication management, companionship, or specialty care. We think that everyone deserves to age gracefully and with dignity, and our services are designed to help you or a loved one achieve that goal.
+          <p class="mt-2 md:mt-6 leading-[28px] md:leading-[28px]">
+            With a staff of committed and professional carers, Wana Healthcare &
+            Services provides a comprehensive range of in-home care services to
+            clients of all ages and backgrounds. Our expert specialists are
+            available to give the finest quality of care and support, whether
+            you require assistance with everyday duties, medication management,
+            companionship, or specialty care. We think that everyone deserves to
+            age gracefully and with dignity, and our services are designed to
+            help you or a loved one achieve that goal.
           </p>
         </div>
       </div>
@@ -92,11 +104,10 @@
             ></nuxt-link> -->
           </div>
           <div class="w-full pl-6 py-4 -translate-x-1">
-            <h2 class="font-semibold text-xl leading-[48px]">
-              Home Help
-            </h2>
+            <h2 class="font-semibold text-xl leading-[48px]">Home Help</h2>
             <p class="mt-2 mb-3">
-              Our care professionals can provide support for general household activities and chores, giving you more time to rest.
+              Our care professionals can provide support for general household
+              activities and chores, giving you more time to rest.
             </p>
             <!-- <nuxt-link
               to="/applyNow"
